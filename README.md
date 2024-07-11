@@ -13,7 +13,7 @@ Volume 374, Issue 22,
 2010,
 Pages 2281-2285,
 ISSN 0375-9601,
-{https://doi.org/10.1016/j.physleta.2010.03.034.}
+<https://doi.org/10.1016/j.physleta.2010.03.034.>
 
 But with the hamiltonian
 

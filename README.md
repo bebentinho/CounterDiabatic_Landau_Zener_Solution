@@ -2,7 +2,9 @@ Codes used for solving the Landau-Zener model with and without the counter-diaba
 
 To calculate the evolution operator $\hat{U}(t)$, the Schrödinger Equation was solved:
 
-$i \partial_t\hat{U}(t) = \hat{H}(t)\hat{U}(t)$
+\begin{equation*}
+i \partial_t\hat{U}(t) = \hat{H}(t)\hat{U}(t)
+\end{equation*}
 
 The procedure was done according to:
 

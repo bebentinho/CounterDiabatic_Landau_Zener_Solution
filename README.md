@@ -17,9 +17,7 @@ ISSN 0375-9601,
 
 But with the hamiltonian
 
-$$
-
-$$ \hat{H}_{CD}(t) = \hat{H}_{0}(t) + \hat{H}_{aux}(t) $$
+$$ \hat{H}_{CD}(t) = \hat{H}_{0}(t) + \hat{H}_{aux}(t) \ and $$
 
 And
 

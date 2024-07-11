@@ -17,7 +17,7 @@ https://doi.org/10.1016/j.physleta.2010.03.034.
 
 But with the hamiltonian:
 
-$$ \hat{H}_{CD}(t) = \hat{H}_{0}(t) + \hat{H}_{aux}(t) $$
+$$ \hat{H}_{CD}(t) = \hat{H}_0(t) = \hat{H}_{aux}(t) $$
 
 $$ \hat{H}_{aux}(t) = - i \frac{\Delta \dot{g}(t)}{2(\Delta^2 + g^2(t))} \sigma_y $$
 
@@ -34,3 +34,4 @@ With:
 $$ A(t) = g(t) $$
 $$ B(t) = \Delta $$
 $$ C(t) = - \frac{\Delta \dot{g}(t)}{2(\Delta^2 + g^2(t))} $$
+.

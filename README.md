@@ -2,7 +2,7 @@ Codes used for solving the Landau-Zener model with and without the counter-diaba
 
 To calculate the evolution operator $\hat{U}(t)$, the Schrödinger Equation was solved:
 
-$$i \partial_t\hat{U}(t) = \hat{H}(t)\hat{U}(t)$$
+$$ i \partial_t\hat{U}(t) = \hat{H}(t)\hat{U}(t) $$
 
 The procedure was done according to:
 
@@ -17,8 +17,9 @@ https://doi.org/10.1016/j.physleta.2010.03.034.
 
 But with the hamiltonian:
 
-$$\hat{H}_{CD}(t) = \hat{H}_{0}(t) + \hat{H}_{aux}(t), \\
-\hat{H}_{aux}(t) = - i \frac{\Delta \dot{g}(t)}{2(\Delta^2 + g^2(t))} \sigma_y$$
+$$ \hat{H}_{CD}(t) = \hat{H}_{0}(t) + \hat{H}_{aux}(t), $$
+
+$$ \hat{H}_{aux}(t) = - i \frac{\Delta \dot{g}(t)}{2(\Delta^2 + g^2(t))} \sigma_y $$
 
 That way, the differential system solved numerically was:
 
